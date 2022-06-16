@@ -1,0 +1,24 @@
+{
+  "name": "newdeep_-mern_stack_project-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-dev-dragon/NewDeep_-MERN_Stack_project-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-dev-dragon/NewDeep_-MERN_Stack_project-/issues"
+  },
+  "homepage": "https://github.com/Ahmed-dev-dragon/NewDeep_-MERN_Stack_project-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
